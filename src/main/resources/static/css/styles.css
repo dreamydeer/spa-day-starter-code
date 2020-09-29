@@ -24,3 +24,33 @@ table {
             padding: 10px;
             text-align: center;
 }
+
+.square1 {
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    display: inline-block;
+}
+.square2 {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    display: inline-block;
+}
+.square3 {
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    display: inline-block;
+}
+.square4 {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    display: inline-block;
+}
+
+.squares {
+    display: inline-block;
+    width: 1500px;
+}
